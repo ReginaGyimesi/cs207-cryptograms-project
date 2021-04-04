@@ -1,8 +1,8 @@
 # Contributors<br />
-Zoltán Kiss @zoltankiss842<br />
+Zoltán Kiss (https://github.com/zoltankiss842)<br />
 Balázs Szalay<br />
-Regina Gyimesi @ReginaGyimesi<br />
-Kat Chan @KatCh4n <br />
+Regina Gyimesi<br />
+Kat Chan (https://github.com/KatCh4n)<br />
 Callum Wright<br />
 
 # Motivation<br />
