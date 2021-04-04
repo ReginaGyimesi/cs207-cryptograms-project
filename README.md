@@ -1,6 +1,6 @@
 **authors** 
-Zoltan Kiss
-Balazs Szalay
+Zoltan Kiss<br />
+Balazs Szalay<br />
 Regina Gyimesi
 Kat Chan
 Callum Wright
