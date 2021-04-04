@@ -6,4 +6,4 @@ Kat Chan<br />
 Callum Wright<br />
 
 **@motivation**<br />
-Basic Cryptogram game with GUI submission for the class CS207. 
+Basic Cryptogram game with GUI, submission for the class CS207. 
