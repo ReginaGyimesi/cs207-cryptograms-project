@@ -1,9 +1,9 @@
-**authors** 
+**authors**<br />
 Zoltan Kiss<br />
 Balazs Szalay<br />
-Regina Gyimesi
-Kat Chan
-Callum Wright
+Regina Gyimesi<br />
+Kat Chan<br />
+Callum Wright<br />
 
-**motivation** 
-Basic Cryptogram game to submit for the class CS207. 
+**motivation**<br />
+Basic Cryptogram game with GUI to submit for the class CS207. 
